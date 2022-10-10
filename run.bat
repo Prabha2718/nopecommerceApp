@@ -1,1 +1,1 @@
-pytest -s -v --html=Reports\report.html TestCases/test_AddCustomer.py --browser firefox
+pytest -s -v --html=Reports\report.html TestCases/test_login_ddt.py --browser chrome
