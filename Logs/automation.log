@@ -1,0 +1,190 @@
+10/05/2022 12:09:17 PM: INFO:PID- 10224: TID-5744: ************* Test_003_AddCustomer ************
+10/05/2022 12:09:17 PM: INFO:PID- 10224: TID-5744: ************* login started************
+10/05/2022 12:09:26 PM: INFO:PID- 10224: TID-5744: ************* login Passed************
+10/05/2022 12:09:26 PM: INFO:PID- 10224: TID-5744: ************* Starting Add Customer Test************
+10/05/2022 12:13:31 PM: INFO:PID- 5808: TID-11532: ************* Test_003_AddCustomer ************
+10/05/2022 12:13:31 PM: INFO:PID- 5808: TID-11532: ************* login started************
+10/05/2022 12:13:36 PM: INFO:PID- 5808: TID-11532: ************* login Passed************
+10/05/2022 12:13:36 PM: INFO:PID- 5808: TID-11532: ************* Starting Add Customer Test************
+10/05/2022 12:16:31 PM: INFO:PID- 3404: TID-4352: ************* Test_003_AddCustomer ************
+10/05/2022 12:16:31 PM: INFO:PID- 3404: TID-4352: ************* login started************
+10/05/2022 12:16:43 PM: INFO:PID- 3404: TID-4352: ************* login Passed************
+10/05/2022 12:16:43 PM: INFO:PID- 3404: TID-4352: ************* Starting Add Customer Test************
+10/05/2022 12:16:47 PM: INFO:PID- 3404: TID-4352: ************* Providing customer info ************
+10/05/2022 12:21:14 PM: INFO:PID- 7172: TID-7840: ************* Test_003_AddCustomer ************
+10/05/2022 12:21:14 PM: INFO:PID- 7172: TID-7840: ************* login started************
+10/05/2022 12:21:20 PM: INFO:PID- 7172: TID-7840: ************* login Passed************
+10/05/2022 12:21:20 PM: INFO:PID- 7172: TID-7840: ************* Starting Add Customer Test************
+10/05/2022 12:28:19 PM: INFO:PID- 3940: TID-4444: ************* Test_003_AddCustomer ************
+10/05/2022 12:28:19 PM: INFO:PID- 3940: TID-4444: ************* login started************
+10/05/2022 12:28:25 PM: INFO:PID- 3940: TID-4444: ************* login Passed************
+10/05/2022 12:28:25 PM: INFO:PID- 3940: TID-4444: ************* Starting Add Customer Test************
+10/05/2022 12:29:14 PM: INFO:PID- 1292: TID-9564: ************* Test_003_AddCustomer ************
+10/05/2022 12:29:14 PM: INFO:PID- 1292: TID-9564: ************* login started************
+10/05/2022 12:29:20 PM: INFO:PID- 1292: TID-9564: ************* login Passed************
+10/05/2022 12:29:20 PM: INFO:PID- 1292: TID-9564: ************* Starting Add Customer Test************
+10/05/2022 12:32:37 PM: INFO:PID- 10660: TID-2592: ************* Test_003_AddCustomer ************
+10/05/2022 12:32:37 PM: INFO:PID- 10660: TID-2592: ************* login started************
+10/05/2022 12:32:44 PM: INFO:PID- 10660: TID-2592: ************* login Passed************
+10/05/2022 12:32:44 PM: INFO:PID- 10660: TID-2592: ************* Starting Add Customer Test************
+10/05/2022 12:44:25 PM: INFO:PID- 5932: TID-9080: ************* Test_003_AddCustomer ************
+10/05/2022 12:44:25 PM: INFO:PID- 5932: TID-9080: ************* login started************
+10/05/2022 12:44:31 PM: INFO:PID- 5932: TID-9080: ************* login Passed************
+10/05/2022 12:44:31 PM: INFO:PID- 5932: TID-9080: ************* Starting Add Customer Test************
+10/05/2022 12:44:35 PM: INFO:PID- 5932: TID-9080: ************* Providing customer info ************
+10/05/2022 12:48:24 PM: INFO:PID- 13192: TID-3848: ************* Test_003_AddCustomer ************
+10/05/2022 12:48:24 PM: INFO:PID- 13192: TID-3848: ************* login started************
+10/05/2022 12:48:30 PM: INFO:PID- 13192: TID-3848: ************* login Passed************
+10/05/2022 12:48:30 PM: INFO:PID- 13192: TID-3848: ************* Starting Add Customer Test************
+10/05/2022 12:48:53 PM: INFO:PID- 8932: TID-4772: ************* Test_003_AddCustomer ************
+10/05/2022 12:48:53 PM: INFO:PID- 8932: TID-4772: ************* login started************
+10/05/2022 12:49:00 PM: INFO:PID- 8932: TID-4772: ************* login Passed************
+10/05/2022 12:49:00 PM: INFO:PID- 8932: TID-4772: ************* Starting Add Customer Test************
+10/05/2022 12:53:03 PM: INFO:PID- 12156: TID-10520: ************* Test_003_AddCustomer ************
+10/05/2022 12:53:03 PM: INFO:PID- 12156: TID-10520: ************* login started************
+10/05/2022 12:53:08 PM: INFO:PID- 12156: TID-10520: ************* login Passed************
+10/05/2022 12:53:08 PM: INFO:PID- 12156: TID-10520: ************* Starting Add Customer Test************
+10/05/2022 12:54:25 PM: INFO:PID- 6084: TID-1328: ************* Test_003_AddCustomer ************
+10/05/2022 12:54:25 PM: INFO:PID- 6084: TID-1328: ************* login started************
+10/05/2022 12:54:31 PM: INFO:PID- 6084: TID-1328: ************* login Passed************
+10/05/2022 12:54:31 PM: INFO:PID- 6084: TID-1328: ************* Starting Add Customer Test************
+10/05/2022 12:55:36 PM: INFO:PID- 11308: TID-7256: ************* Test_003_AddCustomer ************
+10/05/2022 12:55:36 PM: INFO:PID- 11308: TID-7256: ************* login started************
+10/05/2022 12:55:41 PM: INFO:PID- 11308: TID-7256: ************* login Passed************
+10/05/2022 12:55:41 PM: INFO:PID- 11308: TID-7256: ************* Starting Add Customer Test************
+10/05/2022 01:03:42 PM: INFO:PID- 3740: TID-9280: ************* Test_003_AddCustomer ************
+10/05/2022 01:03:42 PM: INFO:PID- 3740: TID-9280: ************* login started************
+10/05/2022 01:03:51 PM: INFO:PID- 3740: TID-9280: ************* login Passed************
+10/05/2022 01:03:51 PM: INFO:PID- 3740: TID-9280: ************* Starting Add Customer Test************
+10/05/2022 01:05:03 PM: INFO:PID- 3180: TID-11508: ************* Test_003_AddCustomer ************
+10/05/2022 01:05:03 PM: INFO:PID- 3180: TID-11508: ************* login started************
+10/05/2022 01:05:09 PM: INFO:PID- 3180: TID-11508: ************* login Passed************
+10/05/2022 01:05:09 PM: INFO:PID- 3180: TID-11508: ************* Starting Add Customer Test************
+10/05/2022 01:05:14 PM: INFO:PID- 3180: TID-11508: ************* Providing customer info ************
+10/05/2022 01:07:44 PM: INFO:PID- 2644: TID-11672: ************* Test_003_AddCustomer ************
+10/05/2022 01:07:44 PM: INFO:PID- 2644: TID-11672: ************* login started************
+10/05/2022 01:07:48 PM: INFO:PID- 2644: TID-11672: ************* login Passed************
+10/05/2022 01:07:48 PM: INFO:PID- 2644: TID-11672: ************* Starting Add Customer Test************
+10/05/2022 01:07:53 PM: INFO:PID- 2644: TID-11672: ************* Providing customer info ************
+10/05/2022 01:12:00 PM: INFO:PID- 9244: TID-124: ************* Test_003_AddCustomer ************
+10/05/2022 01:12:00 PM: INFO:PID- 9244: TID-124: ************* login started************
+10/05/2022 01:12:06 PM: INFO:PID- 9244: TID-124: ************* login Passed************
+10/05/2022 01:12:06 PM: INFO:PID- 9244: TID-124: ************* Starting Add Customer Test************
+10/05/2022 01:12:13 PM: INFO:PID- 9244: TID-124: ************* Providing customer info ************
+10/05/2022 01:13:30 PM: INFO:PID- 1212: TID-12744: ************* Test_003_AddCustomer ************
+10/05/2022 01:13:30 PM: INFO:PID- 1212: TID-12744: ************* login started************
+10/05/2022 01:13:36 PM: INFO:PID- 1212: TID-12744: ************* login Passed************
+10/05/2022 01:13:36 PM: INFO:PID- 1212: TID-12744: ************* Starting Add Customer Test************
+10/05/2022 01:13:42 PM: INFO:PID- 1212: TID-12744: ************* Providing customer info ************
+10/05/2022 01:15:41 PM: INFO:PID- 13416: TID-12696: ************* Test_003_AddCustomer ************
+10/05/2022 01:15:41 PM: INFO:PID- 13416: TID-12696: ************* login started************
+10/05/2022 01:15:46 PM: INFO:PID- 13416: TID-12696: ************* login Passed************
+10/05/2022 01:15:46 PM: INFO:PID- 13416: TID-12696: ************* Starting Add Customer Test************
+10/05/2022 01:15:51 PM: INFO:PID- 13416: TID-12696: ************* Providing customer info ************
+10/05/2022 01:17:12 PM: INFO:PID- 10728: TID-9604: ************* Test_003_AddCustomer ************
+10/05/2022 01:17:12 PM: INFO:PID- 10728: TID-9604: ************* login started************
+10/05/2022 01:17:23 PM: INFO:PID- 10728: TID-9604: ************* login Passed************
+10/05/2022 01:17:23 PM: INFO:PID- 10728: TID-9604: ************* Starting Add Customer Test************
+10/05/2022 01:18:21 PM: INFO:PID- 9268: TID-2684: ************* Test_003_AddCustomer ************
+10/05/2022 01:18:21 PM: INFO:PID- 9268: TID-2684: ************* login started************
+10/05/2022 01:18:43 PM: INFO:PID- 9268: TID-2684: ************* login Passed************
+10/05/2022 01:18:43 PM: INFO:PID- 9268: TID-2684: ************* Starting Add Customer Test************
+10/05/2022 01:18:50 PM: INFO:PID- 9268: TID-2684: ************* Providing customer info ************
+10/05/2022 01:24:10 PM: INFO:PID- 824: TID-10856: ************* Test_003_AddCustomer ************
+10/05/2022 01:24:10 PM: INFO:PID- 824: TID-10856: ************* login started************
+10/05/2022 01:24:31 PM: INFO:PID- 824: TID-10856: ************* login Passed************
+10/05/2022 01:24:31 PM: INFO:PID- 824: TID-10856: ************* Starting Add Customer Test************
+10/05/2022 01:24:37 PM: INFO:PID- 824: TID-10856: ************* Providing customer info ************
+10/05/2022 03:15:32 PM: INFO:PID- 13960: TID-7948: ************* Test_003_AddCustomer ************
+10/05/2022 03:15:32 PM: INFO:PID- 13960: TID-7948: ************* login started************
+10/05/2022 03:15:39 PM: INFO:PID- 13960: TID-7948: ************* login Passed************
+10/05/2022 03:15:39 PM: INFO:PID- 13960: TID-7948: ************* Starting Add Customer Test************
+10/05/2022 03:15:44 PM: INFO:PID- 13960: TID-7948: ************* Providing customer info ************
+10/05/2022 03:18:15 PM: INFO:PID- 10132: TID-4160: ************* Test_003_AddCustomer ************
+10/05/2022 03:18:15 PM: INFO:PID- 10132: TID-4160: ************* login started************
+10/05/2022 03:18:25 PM: INFO:PID- 10132: TID-4160: ************* login Passed************
+10/05/2022 03:18:25 PM: INFO:PID- 10132: TID-4160: ************* Starting Add Customer Test************
+10/05/2022 03:21:44 PM: INFO:PID- 10252: TID-11804: ************* Test_003_AddCustomer ************
+10/05/2022 03:21:44 PM: INFO:PID- 10252: TID-11804: ************* login started************
+10/05/2022 03:21:50 PM: INFO:PID- 10252: TID-11804: ************* login Passed************
+10/05/2022 03:21:50 PM: INFO:PID- 10252: TID-11804: ************* Starting Add Customer Test************
+10/05/2022 04:21:59 PM: INFO:PID- 5472: TID-12504: ************* Test_003_AddCustomer ************
+10/05/2022 04:21:59 PM: INFO:PID- 5472: TID-12504: ************* login started************
+10/05/2022 04:22:04 PM: INFO:PID- 5472: TID-12504: ************* login Passed************
+10/05/2022 04:22:04 PM: INFO:PID- 5472: TID-12504: ************* Starting Add Customer Test************
+10/05/2022 04:22:11 PM: INFO:PID- 5472: TID-12504: ************* Providing customer info ************
+10/05/2022 04:23:47 PM: INFO:PID- 7120: TID-1464: ************* Test_003_AddCustomer ************
+10/05/2022 04:23:47 PM: INFO:PID- 7120: TID-1464: ************* login started************
+10/05/2022 04:23:53 PM: INFO:PID- 7120: TID-1464: ************* login Passed************
+10/05/2022 04:23:53 PM: INFO:PID- 7120: TID-1464: ************* Starting Add Customer Test************
+10/05/2022 04:23:59 PM: INFO:PID- 7120: TID-1464: ************* Providing customer info ************
+10/05/2022 04:31:55 PM: INFO:PID- 392: TID-4816: ************* Test_003_AddCustomer ************
+10/05/2022 04:31:55 PM: INFO:PID- 392: TID-4816: ************* login started************
+10/05/2022 04:32:02 PM: INFO:PID- 392: TID-4816: ************* login Passed************
+10/05/2022 04:32:02 PM: INFO:PID- 392: TID-4816: ************* Starting Add Customer Test************
+10/05/2022 04:32:08 PM: INFO:PID- 392: TID-4816: ************* Providing customer info ************
+10/05/2022 04:34:18 PM: INFO:PID- 2208: TID-12572: ************* Test_003_AddCustomer ************
+10/05/2022 04:34:18 PM: INFO:PID- 2208: TID-12572: ************* login started************
+10/05/2022 04:34:25 PM: INFO:PID- 2208: TID-12572: ************* login Passed************
+10/05/2022 04:34:25 PM: INFO:PID- 2208: TID-12572: ************* Starting Add Customer Test************
+10/05/2022 04:34:29 PM: INFO:PID- 2208: TID-12572: ************* Providing customer info ************
+10/05/2022 04:39:29 PM: INFO:PID- 8344: TID-6168: ************* Test_003_AddCustomer ************
+10/05/2022 04:39:29 PM: INFO:PID- 8344: TID-6168: ************* login started************
+10/05/2022 04:39:35 PM: INFO:PID- 8344: TID-6168: ************* login Passed************
+10/05/2022 04:39:35 PM: INFO:PID- 8344: TID-6168: ************* Starting Add Customer Test************
+10/05/2022 04:39:40 PM: INFO:PID- 8344: TID-6168: ************* Providing customer info ************
+10/05/2022 07:23:41 PM: INFO:PID- 8696: TID-2964: ************* Test_003_AddCustomer ************
+10/05/2022 07:23:41 PM: INFO:PID- 8696: TID-2964: ************* login started************
+10/05/2022 07:23:47 PM: INFO:PID- 8696: TID-2964: ************* login Passed************
+10/05/2022 07:23:47 PM: INFO:PID- 8696: TID-2964: ************* Starting Add Customer Test************
+10/05/2022 07:24:36 PM: INFO:PID- 6316: TID-14848: ************* Test_003_AddCustomer ************
+10/05/2022 07:24:36 PM: INFO:PID- 6316: TID-14848: ************* login started************
+10/05/2022 07:24:41 PM: INFO:PID- 6316: TID-14848: ************* login Passed************
+10/05/2022 07:24:41 PM: INFO:PID- 6316: TID-14848: ************* Starting Add Customer Test************
+10/05/2022 07:26:26 PM: INFO:PID- 6908: TID-14848: ************* Test_003_AddCustomer ************
+10/05/2022 07:26:26 PM: INFO:PID- 6908: TID-14848: ************* login started************
+10/05/2022 07:26:34 PM: INFO:PID- 6908: TID-14848: ************* login Passed************
+10/05/2022 07:26:34 PM: INFO:PID- 6908: TID-14848: ************* Starting Add Customer Test************
+10/05/2022 07:28:23 PM: INFO:PID- 15048: TID-12020: ************* Test_003_AddCustomer ************
+10/05/2022 07:28:23 PM: INFO:PID- 15048: TID-12020: ************* login started************
+10/05/2022 07:28:35 PM: INFO:PID- 15048: TID-12020: ************* login Passed************
+10/05/2022 07:28:35 PM: INFO:PID- 15048: TID-12020: ************* Starting Add Customer Test************
+10/05/2022 07:30:47 PM: INFO:PID- 3684: TID-7284: ************* Test_003_AddCustomer ************
+10/05/2022 07:30:47 PM: INFO:PID- 3684: TID-7284: ************* login started************
+10/05/2022 07:30:52 PM: INFO:PID- 3684: TID-7284: ************* login Passed************
+10/05/2022 07:30:52 PM: INFO:PID- 3684: TID-7284: ************* Starting Add Customer Test************
+10/05/2022 07:32:29 PM: INFO:PID- 13056: TID-9520: ************* Test_003_AddCustomer ************
+10/05/2022 07:32:29 PM: INFO:PID- 13056: TID-9520: ************* login started************
+10/05/2022 07:32:35 PM: INFO:PID- 13056: TID-9520: ************* login Passed************
+10/05/2022 07:32:35 PM: INFO:PID- 13056: TID-9520: ************* Starting Add Customer Test************
+10/05/2022 07:33:31 PM: INFO:PID- 12072: TID-2752: ************* Test_003_AddCustomer ************
+10/05/2022 07:33:31 PM: INFO:PID- 12072: TID-2752: ************* login started************
+10/05/2022 07:33:37 PM: INFO:PID- 12072: TID-2752: ************* login Passed************
+10/05/2022 07:33:37 PM: INFO:PID- 12072: TID-2752: ************* Starting Add Customer Test************
+10/05/2022 07:34:56 PM: INFO:PID- 9744: TID-9532: ************* Test_003_AddCustomer ************
+10/05/2022 07:34:56 PM: INFO:PID- 9744: TID-9532: ************* login started************
+10/05/2022 07:35:00 PM: INFO:PID- 9744: TID-9532: ************* login Passed************
+10/05/2022 07:35:00 PM: INFO:PID- 9744: TID-9532: ************* Starting Add Customer Test************
+10/05/2022 07:37:00 PM: INFO:PID- 13388: TID-7400: ************* Test_003_AddCustomer ************
+10/05/2022 07:37:00 PM: INFO:PID- 13388: TID-7400: ************* login started************
+10/05/2022 07:37:05 PM: INFO:PID- 13388: TID-7400: ************* login Passed************
+10/05/2022 07:37:05 PM: INFO:PID- 13388: TID-7400: ************* Starting Add Customer Test************
+10/05/2022 07:37:11 PM: INFO:PID- 13388: TID-7400: ************* Providing customer info ************
+10/05/2022 07:42:47 PM: INFO:PID- 1272: TID-13068: ************* Test_003_AddCustomer ************
+10/05/2022 07:42:47 PM: INFO:PID- 1272: TID-13068: ************* login started************
+10/05/2022 07:42:52 PM: INFO:PID- 1272: TID-13068: ************* login Passed************
+10/05/2022 07:42:52 PM: INFO:PID- 1272: TID-13068: ************* Starting Add Customer Test************
+10/05/2022 07:42:57 PM: INFO:PID- 1272: TID-13068: ************* Providing customer info ************
+10/05/2022 07:46:06 PM: INFO:PID- 6508: TID-12296: ************* Test_003_AddCustomer ************
+10/05/2022 07:46:06 PM: INFO:PID- 6508: TID-12296: ************* login started************
+10/05/2022 07:46:11 PM: INFO:PID- 6508: TID-12296: ************* login Passed************
+10/05/2022 07:46:11 PM: INFO:PID- 6508: TID-12296: ************* Starting Add Customer Test************
+10/05/2022 07:46:15 PM: INFO:PID- 6508: TID-12296: ************* Providing customer info ************
+10/05/2022 07:58:17 PM: INFO:PID- 3708: TID-3036: ************* Test_003_AddCustomer ************
+10/05/2022 07:58:17 PM: INFO:PID- 3708: TID-3036: ************* login started************
+10/05/2022 07:58:23 PM: INFO:PID- 3708: TID-3036: ************* login Passed************
+10/05/2022 07:58:23 PM: INFO:PID- 3708: TID-3036: ************* Starting Add Customer Test************
+10/05/2022 08:00:48 PM: INFO:PID- 740: TID-14456: ************* Test_003_AddCustomer ************
+10/05/2022 08:00:48 PM: INFO:PID- 740: TID-14456: ************* login started************
+10/05/2022 08:00:54 PM: INFO:PID- 740: TID-14456: ************* login Passed************
+10/05/2022 08:00:54 PM: INFO:PID- 740: TID-14456: ************* Starting Add Customer Test************
