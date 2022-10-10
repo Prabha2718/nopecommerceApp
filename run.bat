@@ -1,0 +1,1 @@
+pytest -s -v --html=Reports\report.html TestCases/test_AddCustomer.py --browser firefox
